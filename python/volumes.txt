@@ -1,0 +1,5 @@
+ 01-10-2026 08:19 PM
+The width of the tire is 123 mm
+The aspect ratio of the tire is 12
+The diamter of the tire is 123 inches
+The volume of the tire is  17.90 liters
